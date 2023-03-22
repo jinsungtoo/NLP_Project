@@ -9,11 +9,18 @@ AIhub 데이터를 이용하여 NLP 모델을 학습한 결과 AI가 어느정�
 ## 데이터 소개
 AIHub 오픈 데이터 사용
 
-AIHub url : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
+    https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
+
 
 ![image](https://user-images.githubusercontent.com/115756142/226775924-d184a048-cfd4-4eea-a970-35b4e2797029.png)
+- JSON 형식의 라벨링 데이터와 xlsx 형식의 원천 데이터로 구성
+(csv로 데이터를 다루기 위해 원천데이터를 사용)
+***
+![image](https://user-images.githubusercontent.com/115756142/226778848-80a4bd1a-c92b-4d62-a507-bbb2f391b989.png)
+- 6가지 대분류 속 세부 감정 라벨이 존재
+(세부 라벨별 데이터 부족으로 6가지 대분류 라벨을 채택)
 
-
+## 데이터 현황
 
 
 ## 결과 스크린샷
