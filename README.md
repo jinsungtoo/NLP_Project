@@ -52,6 +52,10 @@ valid 데이터 : 6641개
     - 웹 사이트 CSS 코드 구현
 
 
+## 문제점 및 보완할 점
+
+1. Colab 환경에선 NLP 학습이 잘되었지만 window 환경에선 진행되지 않음.
+    -> 확인 결과 Python 버전이 달라 호환성의 문제였고 버전을 다운그레이드 하여 해결
 ## 결과 스크린샷
 ![image](https://user-images.githubusercontent.com/115756142/226574133-3820cb87-55d2-493f-ba76-9fd81221b788.png)
 
